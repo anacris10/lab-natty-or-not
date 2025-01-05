@@ -20,23 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Visão PLDFT
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 13 páginas explora  visão geral de PLDFT abordando conceitos, movimentações suspeitas, impactos, regulações, dentre outros.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Ferramenta WORD para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre PLDFT, revisar o conteúdo e estruturar o e-book. Para gerar imagens usei o "Leonardo AI. Para concluir, a montagem final foi feita no Word, por ser uma ferramenta edição de texto.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O e-book apresenta um conteúdo introdutório e geral sobre PLDFT, mostrando a importância e necessidade de termos este conhecimento, principalmente para quem atua nas instiuições finaneiras.
 
 ### Exemplos e Insigths
 
